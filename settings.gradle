@@ -1,0 +1,2 @@
+rootProject.name='tugassatupraktikum'
+include ':app'
